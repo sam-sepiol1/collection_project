@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Lost Frequencies",
+        "description": "Lost Frequencies, whose real name is Felix De Laet, is a Belgian DJ and music producer. He has released three studio albums. He has also released a number of singles and Deluxe version of his albums. Lost Frequencies has performed at many music festivals and has won several awards. He has also collaborated with other artists.", 
+        "picture": "",
+        "nationality": "Belgian",
+        "genre": ["Deep house", "tropical house", "future house"],
+        "youtube": "https://www.youtube.com/@LostFrequencies",
+        "spotify": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7",
+        "instagram": "https://www.instagram.com/lostfrequencies/"
+    },
+    {
+        "name": "Gioli & Assia",
+        "description": "Giolì & Assia are an Italian electronic music duo known for their unique blend of live instrumentation and electronic beats. They have released several singles, and are known for their energetic live performances and innovative music videos. They have performed at various international festivals and have a growing fan base worldwide.",
+        "picture": "",
+        "nationality": "Italian",
+        "genre": ["Electronic", "house", "techno"],
+        "youtube": "https://www.youtube.com/c/GiolìandAssia",
+        "spotify": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU",
+        "instagram": "https://www.instagram.com/gioliandassia/"
+    },
+    {
+        "name": "NTO",
+        "description": "NTO is a French electronic music producer known for his melodic techno and deep house tracks. He has gained recognition for his emotive soundscapes and has released several albums and singles. NTO has performed at numerous festivals and clubs around the world, captivating audiences with his unique sound.",
+        "picture": "",
+        "nationality": "French",
+        "genre": ["Melodic techno", "deep house"],
+        "youtube": "https://www.youtube.com/@ntomusic",
+        "spotify": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq",
+        "instagram": "https://www.instagram.com/ntomusic/"
+    },
+    {
+        "name": "Linkin Park",
+        "description": "",
+        "picture": "",
+        "nationality": "American",
+        "genre": ["Nu metal", "alternative rock", "rap rock"],
+        "youtube": "https://www.youtube.com/@LinkinPark",
+        "spotify": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz",
+        "instagram": "https://www.instagram.com/linkinpark/"
+    },
+    {
+        "name": "twenty one pilots",
+        "description": "twenty one pilots is an American musical duo known for their genre-blending sound that combines elements of rock, pop, hip-hop, and electronica. They have released several albums and singles, and have won multiple awards for their music. twenty one pilots are also known for their energetic live performances and creative music videos.",
+        "picture": "",
+        "nationality": "American",
+        "genre": ["Alternative rock", "indie pop", "electropop"],
+        "youtube": "https://www.youtube.com/@twentyonepilots",
+        "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx",
+        "instagram": "https://www.instagram.com/twentyonepilots/"
+    },
+    {
+        "name": "Stromae",
+        "description": "Stromae is a Belgian singer-songwriter known for his unique blend of electronic, hip-hop, and world music influences. He has released several albums and singles, and has won numerous awards for his music. Stromae is also known for his innovative music videos and socially conscious lyrics.",
+        "picture": "",
+        "nationality": "Belgian",
+        "genre": ["Electropop", "hip-hop", "world music"],
+        "youtube": "https://www.youtube.com/@Stromae",
+        "spotify": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR",
+        "instagram": "https://www.instagram.com/stromae/"
+    },
+    {
+        "name": "Bob Sinclar",
+        "description": "Bob Sinclar is a French DJ and music producer known for his house and dance music tracks. He has released several albums and singles, and has collaborated with many artists. Bob Sinclar is also known for his energetic DJ sets and has performed at numerous music festivals and clubs around the world.",
+        "picture": "",
+        "nationality": "French",
+        "genre": ["House", "dance", "electronic"],
+        "youtube": "https://www.youtube.com/@BobSinclar",
+        "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN",
+        "instagram": "https://www.instagram.com/bobsinclar/"
+    },
+    {
+        "name": "Agnes Obel",
+        "description": "Agnes Obel is a Danish singer-songwriter known for her hauntingly beautiful music that blends elements of folk, classical, and ambient music. She has released several albums and singles, and has won multiple awards for her music. Agnes Obel is also known for her ethereal vocals and introspective lyrics.",
+        "picture": "",
+        "nationality": "Danish",
+        "genre": ["Folk", "classical", "ambient"],
+        "youtube": "https://www.youtube.com/@AgnesObel",
+        "spotify": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms",
+        "instagram": "https://www.instagram.com/agnesobel/"
+    },
+    {
+        "name": "Gary Numan",
+        "description": "Gary Numan is an English singer-songwriter known for his pioneering work in electronic and synth-pop music. He has released several albums and singles, and has influenced many artists with his innovative sound. Gary Numan is also known for his distinctive voice and futuristic aesthetic.",
+        "picture": "",
+        "nationality": "English",
+        "genre": ["Synth-pop", "electronic", "new wave"],
+        "youtube": "https://www.youtube.com/@OfficialGaryNuman",
+        "spotify": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE",
+        "instagram": "https://www.instagram.com/garynuman/"
+    },
+    {
+        "name": "Wookid",
+        "description": "Wookid is a French DJ and music producer known for his energetic house and dance music tracks. He has released several singles and has collaborated with other artists. Wookid is also known for his dynamic DJ sets and has performed at various music festivals and clubs around the world.",
+        "picture": "",
+        "nationality": "French",
+        "genre": ["House", "dance", "electronic"],
+        "youtube": "https://www.youtube.com/@Wookid",
+        "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN",
+        "instagram": "https://www.instagram.com/wookid/"
+    }
+]
