@@ -1,3 +1,11 @@
 @use './styles/reset';
-@use './styles/variables';
+@use './styles/colors';
+@use './styles/typography';
 @use './styles/header';
+@use './styles/collection';
+@use './styles/card';
+
+body { 
+    background-color: colors.$color-quaternary;
+}
+

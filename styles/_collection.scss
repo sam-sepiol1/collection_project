@@ -1,0 +1,28 @@
+@use './responsive' as *;
+
+
+.collection {
+	display: grid;
+	justify-content: center;
+	margin: 0 auto;
+	max-width: $xxl-screen;
+	width: 100%;
+} 
+
+.collection__item {
+	width: 100%;
+	padding: 1rem;
+}
+
+@include media-minwidth($md-screen) {
+	.collection {
+		grid-template-columns: repeat(2, 1fr);
+	}
+}
+@include media-minwidth($xl-screen) {
+	.collection {
+		grid-template-columns: repeat(3, 1fr);
+	}
+}
+
+

@@ -1,0 +1,48 @@
+@use './colors' as *;
+
+.card { 
+    display: flex;
+    flex-direction: column;
+    align-items: stretch;
+    align-content: stretch;
+    justify-content: space-between;
+    text-align: center;
+    height: 100%;
+    gap: 2rem;
+    padding: 1rem;
+}
+
+.card__image { 
+    display: flex;
+    justify-content: center;
+    width: 100%; 
+    height: auto; 
+    object-fit: cover;
+
+}
+
+.card__genre { 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    width: 100%;
+}
+
+.card__genre-item { 
+    background-color: $color-tertiary;
+    font-size: clamp(0.9rem, 1vw, 1rem);
+    padding: 0.5rem;
+    text-wrap: nowrap;
+
+
+    
+
+}
+
+.card__links { 
+    display: flex;
+    gap: 1rem;
+    width: 50%;
+}
+
