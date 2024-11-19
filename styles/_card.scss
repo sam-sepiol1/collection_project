@@ -34,10 +34,6 @@
     font-size: clamp(0.9rem, 1vw, 1rem);
     padding: 0.5rem;
     text-wrap: nowrap;
-
-
-    
-
 }
 
 .card__links { 
@@ -45,4 +41,17 @@
     gap: 1rem;
     width: 50%;
 }
+
+.card__links a {
+    transition: filter 0.3s;
+}
+
+.card__link:hover {
+    filter: none;
+}
+
+.card__links:hover .card__link:not(:hover)  {
+    filter: blur(0.2rem);
+}
+
 

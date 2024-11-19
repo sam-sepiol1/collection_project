@@ -33,15 +33,10 @@
         flex-direction: row;
         justify-content: center;
         width: 75%;
+        max-width: $xl-screen;
     }
 
     .header__text {
         text-align: left;
-    }
-}
-
-@include media-minwidth($xxl-screen) {
-    .header {
-        width: 50%;
     }
 }

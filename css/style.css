@@ -132,14 +132,10 @@ p {
     flex-direction: row;
     justify-content: center;
     width: 75%;
+    max-width: 1200px;
   }
   .header__text {
     text-align: left;
-  }
-}
-@media (min-width: 1400px) {
-  .header {
-    width: 50%;
   }
 }
 .collection {
@@ -204,6 +200,25 @@ p {
   display: flex;
   gap: 1rem;
   width: 50%;
+}
+
+.card__links a {
+  transition: filter 0.3s;
+}
+
+.card__link:hover {
+  filter: none;
+}
+
+.card__links:hover .card__link:not(:hover) {
+  filter: blur(0.2rem);
+}
+
+footer {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+  width: 100%;
 }
 
 body {

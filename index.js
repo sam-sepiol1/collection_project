@@ -36,13 +36,13 @@ artists.forEach((artist) => {
                         <p class="card__description">${artist.description}</p>
                         <hr>
                         <div class="card__links">
-                            <a href="${artist.youtube}">
+                            <a class="card__link" href="${artist.youtube}">
                                 <img src="./assets/youtube.png" alt="youtube">
                             </a>
-                            <a href="${artist.spotify}">
+                            <a class="card__link" href="${artist.spotify}">
                                 <img src="./assets/spotify.png" alt="spotify">
                             </a>
-                            <a href="${artist.instagram}">
+                            <a class="card__link" href="${artist.instagram}">
                                 <img src="./assets/instagram.png" alt="instagram">
                             </a>
                         </div>
