@@ -183,7 +183,7 @@ p {
 }
 
 .card__description {
-  font-size: clamp(0.9rem, 1vw, 1rem);
+  font-size: clamp(0.9rem, 2vw, 2rem);
   height: 150px;
   overflow: scroll;
 }
@@ -229,6 +229,7 @@ iframe {
 
 .card__link:hover {
   filter: none;
+  filter: invert(0.5);
 }
 
 .card__links:hover .card__link:not(:hover) {
