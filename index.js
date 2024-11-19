@@ -34,6 +34,11 @@ artists.forEach((artist) => {
                     <div class="card__text">
                         <h2 class="card__title">${artist.name}</h2>
                         <p class="card__description">${artist.description}</p>
+                    </div>
+                        <hr>
+                        <div class"card__player">
+                            <iframe src="${artist.song}"></iframe>
+                        </div>
                         <hr>
                         <div class="card__links">
                             <a class="card__link" href="${artist.youtube}">

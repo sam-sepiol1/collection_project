@@ -10,3 +10,8 @@ body {
     background-color: colors.$color-quaternary;
 }
 
+hr { 
+    border: 1px solid colors.$color-secondary;
+    width: 100%;
+}
+

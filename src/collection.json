@@ -6,7 +6,8 @@
         "genre": ["Deep house", "Tropical house", "Future house"],
         "youtube": "https://www.youtube.com/@LostFrequencies",
         "spotify": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7",
-        "instagram": "https://www.instagram.com/lostfrequencies/"
+        "instagram": "https://www.instagram.com/lostfrequencies/",
+        "song": "https://open.spotify.com/embed/track/1C1zuA0hSfyNYFOTUddCzO?utm_source=generator"
     },
     {
         "name": "Gioli & Assia",
@@ -15,7 +16,8 @@
         "genre": ["Electronic", "House", "Techno"],
         "youtube": "https://www.youtube.com/c/GiolìandAssia",
         "spotify": "https://open.spotify.com/artist/6mM9a86Nrw0y7f9MaJGbpU",
-        "instagram": "https://www.instagram.com/gioliandassia/"
+        "instagram": "https://www.instagram.com/gioliandassia/",
+        "song": "https://open.spotify.com/embed/track/19VAPErGs8MwGm6Dxw0j1G?utm_source=generator"
     },
     {
         "name": "NTO",
@@ -24,7 +26,8 @@
         "genre": ["Melodic Techno", "Deep House"],
         "youtube": "https://www.youtube.com/@ntomusic",
         "spotify": "https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq",
-        "instagram": "https://www.instagram.com/ntomusic/"
+        "instagram": "https://www.instagram.com/ntomusic/",
+        "song": "https://open.spotify.com/embed/track/12LOYGBr0T0IqyuhEILYFh?utm_source=generator"
     },
     {
         "name": "Linkin Park",
@@ -33,7 +36,18 @@
         "genre": ["Nu Metal", "Alternative Rock", "Rap Rock"],
         "youtube": "https://www.youtube.com/@LinkinPark",
         "spotify": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz",
-        "instagram": "https://www.instagram.com/linkinpark/"
+        "instagram": "https://www.instagram.com/linkinpark/",
+        "song": "https://open.spotify.com/embed/track/57BrRMwf9LrcmuOsyGilwr?utm_source=generator"
+    },
+    {
+        "name": "The Beatles",
+        "description": "The Beatles were an English rock band formed in Liverpool in 1960. With a line-up comprising John Lennon, Paul McCartney, George Harrison and Ringo Starr, they are regarded as the most influential band of all time. The group were integral to the development of 1960s counterculture and popular music's recognition as an art form.",
+        "picture": "./assets/beatles.jpg",
+        "genre": ["Rock", "Pop", "Psychedelic"],
+        "youtube": "https://www.youtube.com/user/thebeatles",
+        "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
+        "instagram": "https://www.instagram.com/thebeatles/",
+        "song": "https://open.spotify.com/embed/track/3BQHpFgAp4l80e1XslIjNI?utm_source=generator"
     },
     {
         "name": "twenty one pilots",
@@ -42,7 +56,8 @@
         "genre": ["Alternative Rock", "Indie Pop", "Electropop"],
         "youtube": "https://www.youtube.com/@twentyonepilots",
         "spotify": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx",
-        "instagram": "https://www.instagram.com/twentyonepilots/"
+        "instagram": "https://www.instagram.com/twentyonepilots/",
+        "song": "https://open.spotify.com/embed/track/4IN3imzEuTsiHO6tOwDQu5?utm_source=generator"
     },
     {
         "name": "Stromae",
@@ -51,7 +66,8 @@
         "genre": ["Electropop", "Hip-Hop", "World Music"],
         "youtube": "https://www.youtube.com/@Stromae",
         "spotify": "https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR",
-        "instagram": "https://www.instagram.com/stromae/"
+        "instagram": "https://www.instagram.com/stromae/",
+        "song": "https://open.spotify.com/embed/track/12S63pY6DtPOiEIUTrHiIm?utm_source=generator"
     },
     {
         "name": "Bob Sinclar",
@@ -60,7 +76,8 @@
         "genre": ["House", "Dance", "Electronic"],
         "youtube": "https://www.youtube.com/@BobSinclar",
         "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN",
-        "instagram": "https://www.instagram.com/bobsinclar/"
+        "instagram": "https://www.instagram.com/bobsinclar/",
+        "song": "https://open.spotify.com/embed/track/1VOhCTqc7H9Tj4IjqgXnGj?utm_source=generator"
     },
     {
         "name": "Agnes Obel",
@@ -69,7 +86,8 @@
         "genre": ["Folk", "Classical", "Ambient"],
         "youtube": "https://www.youtube.com/@AgnesObel",
         "spotify": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms",
-        "instagram": "https://www.instagram.com/agnesobel/"
+        "instagram": "https://www.instagram.com/agnesobel/",
+        "song": "https://open.spotify.com/embed/track/7hiY7fVxa0LEUeUP4F4ReR?utm_source=generator"
     },
     {
         "name": "Gary Numan",
@@ -78,7 +96,8 @@
         "genre": ["Synth-Pop", "Electronic", "New Wave"],
         "youtube": "https://www.youtube.com/@OfficialGaryNuman",
         "spotify": "https://open.spotify.com/artist/5KQMtyPE8DCQNUzoNqlEsE",
-        "instagram": "https://www.instagram.com/garynuman/"
+        "instagram": "https://www.instagram.com/garynuman/",
+        "song": "https://open.spotify.com/embed/track/0dCAVXm6YgbPIzbOX2tGNH?utm_source=generator"
     },
     {
         "name": "Wookid",
@@ -87,6 +106,49 @@
         "genre": ["Dance", "Electronic"],
         "youtube": "https://www.youtube.com/@Wookid",
         "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN",
-        "instagram": "https://www.instagram.com/wookid/"
+        "instagram": "https://www.instagram.com/wookid/",
+        "song": "https://open.spotify.com/embed/track/3TdQ399gmy71IUdz3DoaO4?utm_source=generator"
+    },
+    { 
+        "name": "Nekfeu",
+        "description": "Nekfeu is a French rapper and music producer known for his introspective lyrics and innovative sound. He has released several albums and singles, and has won multiple awards for his music.",
+        "picture": "./assets/nekfeu.jpg",
+        "genre": ["Rap", "Hip-Hop"],
+        "youtube": "https://www.youtube.com/channel/UCvuoyvO5ae3EpxQoLErgR2Q",
+        "spotify": "https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN",
+        "instagram": "https://www.instagram.com/feuinfos/",
+        "song": "https://open.spotify.com/embed/track/5Mjd1MhXkysKHLUCkKT3Wi?utm_source=generator"
+
+    },
+    { 
+        "name": "Orelsan",
+        "description": "Orelsan is a French rapper and music producer known for his witty lyrics and unique style. He has released several albums and singles, and has won multiple awards for his music.",
+        "picture": "./assets/orelsan.jpg",
+        "genre": ["Rap", "Hip-Hop"],
+        "youtube": "https://www.youtube.com/channel/UCEnFzIYw3BrndPCddyQ6c5A?feature=gws_kp_artist&feature=gws_kp_artist",
+        "spotify": "https://open.spotify.com/artist/4FpJcNgOvIpSBeJgRg3OfN?autoplay=true",
+        "instagram": "https://www.instagram.com/orelsan/",
+        "song": "https://open.spotify.com/embed/track/3SgnYOV9ONL0bIHaAcOYE1?utm_source=generator"
+
+    },
+    {
+        "name": "Jacques Brel",
+        "description": "Jacques Brel was a Belgian singer-songwriter known for his poetic and emotional songs. He has released several albums and singles, and has influenced many artists with his powerful lyrics and distinctive voice. Jacques Brel is also known for his passionate performances and timeless music.",
+        "picture": "./assets/jacques_brel.jpg",
+        "genre": ["Chanson", "French Pop"],
+        "youtube": "https://www.youtube.com/@jacquesbrelofficiel",
+        "spotify": "https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs",
+        "instagram": "https://www.instagram.com/jacquesbrel.officiel/",
+        "song": ""
+    },
+    {
+        "name": "Francis Cabrel",
+        "description": "Francis Cabrel is a French singer-songwriter known for his poetic lyrics and folk-inspired music. He has released several albums and singles, and has won multiple awards for his music. Francis Cabrel is also known for his soulful voice and timeless songs.",
+        "picture": "./assets/francis_cabrel.jpg",
+        "genre": ["Folk", "Chanson"],
+        "youtube": "https://www.youtube.com/@FrancisCabrelOfficiel",
+        "spotify": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv",
+        "instagram": "https://www.instagram.com/franciscabrel.officiel/",
+        "song": "https://open.spotify.com/embed/track/2mLFPvKfZ6LI9NaAtFDyUL?utm_source=generator"
     }
 ]
