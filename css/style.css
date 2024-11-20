@@ -211,6 +211,9 @@ iframe {
   height: auto;
   object-fit: cover;
 }
+.card__image img {
+  border-radius: 50%;
+}
 
 .card__genre {
   display: flex;

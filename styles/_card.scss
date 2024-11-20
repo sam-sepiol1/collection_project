@@ -40,6 +40,10 @@ iframe {
     height: auto; 
     object-fit: cover;
 
+    & img { 
+        border-radius: 50%;;
+    }
+
 }
 
 .card__genre { 
