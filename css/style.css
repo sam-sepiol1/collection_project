@@ -123,6 +123,16 @@ p {
   max-width: 250px;
 }
 
+.header__link {
+  text-decoration: none;
+}
+
+.header__link-text {
+  text-decoration: none;
+  text-align: center;
+  padding: 0.5em 1em;
+}
+
 .header__text {
   text-align: center;
 }

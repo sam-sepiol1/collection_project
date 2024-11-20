@@ -1,42 +1,45 @@
-@use 'responsive' as *;
+@use "responsive" as *;
 
-
-
-.header { 
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    padding: 3em;
-    gap: 2em;
-    margin: 0 auto;
-    width: 100%;
-
+.header {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	justify-content: center;
+	padding: 3em;
+	gap: 2em;
+	margin: 0 auto;
+	width: 100%;
 }
 
- .header__logo {
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
-    min-width: 200px;
-    max-width: 250px;
-
-
+.header__logo {
+	width: 100%;
+	height: 100%;
+	object-fit: contain;
+	min-width: 200px;
+	max-width: 250px;
+}
+.header__link {
+    text-decoration: none;
+}
+.header__link-text {
+	text-decoration: none;
+	text-align: center;
+	padding: 0.5em 1em;
 }
 
 .header__text {
-    text-align: center;
+	text-align: center;
 }
 
 @include media-minwidth($xl-screen) {
-    .header {
-        flex-direction: row;
-        justify-content: center;
-        width: 75%;
-        max-width: $xl-screen;
-    }
+	.header {
+		flex-direction: row;
+		justify-content: center;
+		width: 75%;
+		max-width: $xl-screen;
+	}
 
-    .header__text {
-        text-align: left;
-    }
+	.header__text {
+		text-align: left;
+	}
 }
