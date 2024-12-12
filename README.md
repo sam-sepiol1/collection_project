@@ -17,7 +17,7 @@ This project is part of the Becode curriculum and focuses on DOM manipulation. T
 ## 🌐 See the project live
 
 Go to   
-> https://sam-sepiol1.github.io/Collection_project/
+> https://sam-sepiol1.github.io/collection_project/
 
 to see the project live.
 
