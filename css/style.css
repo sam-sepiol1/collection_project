@@ -194,7 +194,7 @@ p {
 
 .card__description {
   font-size: clamp(0.9rem, 2vw, 1rem);
-  height: auto;
+  height: 200px;
   overflow: auto;
   display: flex;
   align-items: center;
