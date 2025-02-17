@@ -7,9 +7,6 @@ const artists = await fetch("./src/collection.json")
 // DOM
 const collection = document.getElementById("collection");
 
-
-
-
 // function
 
 artists.forEach((artist) => {
@@ -35,11 +32,10 @@ artists.forEach((artist) => {
                         <h2 class="card__title">${artist.name}</h2>
                         <p class="card__description">${artist.description}</p>
                     </div>
-                        <hr>
+
                         <div class"card__player">
                             <iframe src="${artist.song}"></iframe>
                         </div>
-                        <hr>
                         <div class="card__links">
                             <a class="card__link" href="${artist.youtube}">
                                 <img src="./assets/youtube.png" alt="youtube">
@@ -51,6 +47,7 @@ artists.forEach((artist) => {
                                 <img src="./assets/instagram.png" alt="instagram">
                             </a>
                         </div>
+                        <hr>
                     </div>
                 </div>
   `;
